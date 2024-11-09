@@ -1,3 +1,4 @@
 # terraform-unit
 
-test1
+* test1
+* test2
