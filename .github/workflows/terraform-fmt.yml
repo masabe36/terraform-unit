@@ -3,6 +3,7 @@ name: Terraform Fmt Check
 on:
   pull_request:
     branches:
+      - "main"
       - "dev/*"
 
 jobs:
